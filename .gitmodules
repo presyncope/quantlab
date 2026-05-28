@@ -1,0 +1,12 @@
+[submodule ".references/OpenDartReader"]
+	path = .references/OpenDartReader
+	url = https://github.com/FinanceData/OpenDartReader.git
+[submodule ".references/FinanceDataReader"]
+	path = .references/FinanceDataReader
+	url = https://github.com/FinanceData/FinanceDataReader.git
+[submodule ".references/open-trading-api"]
+	path = .references/open-trading-api
+	url = https://github.com/koreainvestment/open-trading-api.git
+[submodule ".references/pykrx"]
+	path = .references/pykrx
+	url = https://github.com/sharebook-kr/pykrx.git
