@@ -1,0 +1,11 @@
+.venv/
+.ruff_cache/
+.pytest_cache/
+__pycache__/
+*.py[cod]
+
+.omx/
+.quantlab/
+
+.references/*
+!.references/phase1.md
